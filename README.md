@@ -1,2 +1,2 @@
 # play-golang
-My Golang programming summary
+Golang programming summary
