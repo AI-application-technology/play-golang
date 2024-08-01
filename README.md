@@ -12,7 +12,7 @@ rm -rf $(echo $GOPATH)
 ```
 
 ### Download and Install New Version
-
+Download the installation package from official site, check the intallation after installing the package.
 ```bash
 go version
 ```
